@@ -25,5 +25,9 @@
   "dependencies": {
     "@threlte/gltf": "^2.0.3",
     "gsap": "^3.12.5"
+  },
+  {
+  "engines": {
+    "node": "18.17.0" 
   }
 }
