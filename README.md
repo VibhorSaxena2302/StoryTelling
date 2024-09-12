@@ -9,3 +9,4 @@ The project demonstrates a short story about ISRO's history. The site is created
 4. Run the site using 'npm run dev'
 
 ![alt text](https://github.com/VibhorSaxena2302/StoryTelling/blob/main/image.png?raw=true)
+![alt_text](https://github.com/VibhorSaxena2302/StoryTelling/blob/main/image2.png?raw=true)
