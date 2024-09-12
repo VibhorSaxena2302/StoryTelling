@@ -8,3 +8,4 @@ The project demonstrates a short story about ISRO's history. The site is created
 3. Run command 'npm install' to install dependencies
 4. Run the site using 'npm run dev'
 
+![alt text](https://github.com/VibhorSaxena2302/StoryTelling/blob/main/image.png?raw=true)
