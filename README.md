@@ -1,6 +1,6 @@
 **ISRO SHORT STORY**
 
-The project demonstrates a short story about ISRO's history. The site is created using threejs + svelte (Threlte) to give off space based theme for story immersiveness.
+The project demonstrates a short story about ISRO's history. The site is created using threejs + svelte (Threlte) to give off space based theme for story immersiveness. The models are open-sourced from sketchfab3d.
 
 **Running project locally**
 1. Install Node
