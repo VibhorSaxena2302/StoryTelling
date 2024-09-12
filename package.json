@@ -23,6 +23,7 @@
   },
   "type": "module",
   "dependencies": {
-    "@threlte/gltf": "^2.0.0"
+    "@threlte/gltf": "^2.0.3",
+    "gsap": "^3.12.5"
   }
 }

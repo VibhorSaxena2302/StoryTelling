@@ -17,10 +17,10 @@
 	function resetStar(star) {
 		if (r(0, 1) > 0.8) {
 			star.pos = new Vector3(r(-10, -30), r(-5, 5), r(6, -6));
-			star.len = r(1.5, 15);
+			star.len = r(1.5, 5);
 		} else {
 			star.pos = new Vector3(r(-15, -45), r(-10.5, 1.5), r(30, -45));
-			star.len = r(2.5, 20);
+			star.len = r(2.5, 10);
 		}
 
 		star.speed = r(19.5, 42);
@@ -45,7 +45,7 @@
 
 	useFrame((_, delta) => {
 		stars.forEach((star) => {
-			star.pos.x += star.speed * delta;
+			star.pos.x += star.speed * delta ;
 			if (star.pos.x > 40) resetStar(star);
 		});
 		stars = stars;
